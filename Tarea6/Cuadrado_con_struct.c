@@ -7,7 +7,7 @@ struct cuadrilatero{
 
 int main()
 {
-	int i,j;
+	int i,j; /*indices de los  ciclos for*/
 	struct cuadrilatero cuadrilatero1;
 	cuadrilatero1.base=10;
 	cuadrilatero1.altura = 5;
